@@ -179,7 +179,10 @@ ros2 launch m_detector cal_recall.launch.py \
 
 ## 11. 许可证
 
-GPL-2.0
+This project is licensed under the **GNU General Public License v2.0 (GPL-2.0)**.
+
+- See the `LICENSE` file for the full license text.
+- This project follows the **copyleft** requirements of GPL-2.0.
 
 ## 12. 致谢与作者
 
