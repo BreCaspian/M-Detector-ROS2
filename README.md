@@ -7,11 +7,11 @@ ROS2 Humble 版本的 M-detector（Moving Event Detection），用于对 LiDAR �
 M-detector 基于遮挡原理，对每个到达的点进行快速动态判别，具备低延迟与较高泛化性。该实现面向工程落地，支持 Livox 设备与标准 PointCloud2 输入。
 
 来源：
-该工作源自 香港大学 MARS Lab（The University of Hong Kong），论文发表于 Nature Communications。
+该工作源自 香港大学 MARS Lab（The University of Hong Kong）
 
 
 论文：
-[Moving event detection from LiDAR point streams](https://www.nature.com/articles/s41467-023-44554-8)
+[Moving event detection from LiDAR point streams （Nature Communications）](https://www.nature.com/articles/s41467-023-44554-8) 
 
 视频：
 
