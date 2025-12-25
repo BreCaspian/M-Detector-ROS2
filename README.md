@@ -11,7 +11,7 @@ M-detector 基于遮挡原理，对每个到达的点进行快速动态判别，
 
 
 论文：
-[Moving Event Detection from LiDAR Stream Points](https://www.nature.com/articles/s41467-023-44554-8)
+[Moving event detection from LiDAR point streams](https://www.nature.com/articles/s41467-023-44554-8)
 
 视频：
 
